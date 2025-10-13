@@ -1,4 +1,4 @@
-//Codeforces Round 1056 (Div. 2) C. The Ancient Wizards' Capes
+//Codeforces Round 1056 (Div. 2)C. The Ancient Wizards' Capes
 #include<bits/stdc++.h>
 using namespace std;
 int a[100000],b[100000];
